@@ -127,6 +127,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+.myenv_GlobalStay
+House_listings
 
 # Spyder project settings
 .spyderproject
